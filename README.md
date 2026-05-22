@@ -40,8 +40,7 @@
 This repository contains the
 [Ethereum Virtual Machine File System](
   https://github.com/themartiancompany/evmfs)
-(`evmfs`) uncensorable application store static
-binary data.
+(`evmfs`) static binary data.
 
 - [Logos](
      logos.md)
