@@ -1,6 +1,6 @@
 # EVMFS logos
 
-A landscape logo.
+Landscape original logo.
 
 <div
    align="center">
@@ -21,6 +21,20 @@ A squared logo derived from landscape.
      href="evmfs-square.png">
     <img
        src="evmfs-square.png"
+       width="500"
+    />
+  </a>
+</div>
+
+
+A landscape with a specific aspect ratio for popular websites.
+
+<div
+   align="center">
+  <a
+     href="evmfs-landscape.png">
+    <img
+       src="evmfs-landscape.png"
        width="500"
     />
   </a>
