@@ -24,7 +24,7 @@
 [comment]: <> (with this program.)
 [comment]: <> (If not, see <https://www.gnu.org/licenses/>.)
 
-# Ethereum Virtual Machine File System (EVMFS) data git repository
+# Ethereum Virtual Machine File System (`evmfs`) data git repository
 
 <div
    align="center">
